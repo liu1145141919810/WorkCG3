@@ -1,6 +1,6 @@
 # 计算机图形学课程小作业(详细介绍查看每个分项目下的README文件）
 
-简单测试：访问网址 https://liu1145141919810.github.io/work_CG3/
+简单测试：访问网址 https://liu1145141919810.github.io/WorkCG/
 
 ## 一，项目概述
 
