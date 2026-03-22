@@ -24,11 +24,13 @@
 
 对三角形图元进行扫描线填充，通过重心坐标插值计算像素颜色 / 深度；
 
-### 光照计算：基于 Phong 模型，对每个像素计算三部分光照之和：
+### 光照计算：
 
-- 环境光：$$I_a \cdot K_a$$
-- 漫反射：$$I_d \cdot K_d \cdot (N \cdot L)$$
-- 镜面反射：$$I_s \cdot K_s \cdot (V \cdot R)^n$$
+基于 Phong 模型，对每个像素计算三部分光照之和：
+
+- 环境光：$I_a \cdot K_a$
+- 漫反射：$I_d \cdot K_d \cdot (N \cdot L)$
+- 镜面反射：$I_s \cdot K_s \cdot (V \cdot R)^n$
 
 最终颜色为：
 
