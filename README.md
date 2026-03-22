@@ -14,6 +14,8 @@
 
 ## 三，项目结构
 
+Work1/ ├── HW1-web2.0-blank/ │ ├── Common/ # 公共库文件 │ │ ├── MV.js # 矩阵向量数学库 │ │ ├── MVnew.js # 矩阵向量库备用版本 │ │ ├── flatten.js # 数据扁平化工具 │ │ ├── initShaders.js # Shader初始化工具 │ │ ├── initShaders2.js # Shader初始化工具2 │ │ ├── initShaders3.js # Shader初始化工具3 │ │ ├── utility.js # 通用工具函数 │ │ └── webgl-utils.js # WebGL工具库 │ │ │ └── Gasket/ # 谢尔宾斯基地毯绘制 │ ├── customize.html # 自定义参数界面 │ ├── customize.js # 自定义参数逻辑 │ ├── gasket2D.html # 2D地毯绘制界面 │ ├── gasket2D.js # 2D地毯绘制逻辑 │ └── shaders/ # 着色器程序 │ ├── gasket2D.vert # 顶点着色器 │ └── gasket2D.frag # 片段着色器 │ └── graphics/ # 演示图像 ├── p1.png # 示例图像1 ├── p2.png # 示例图像2 ├── p3.png # 示例图像3 └── p4.png # 示例图像4
+
 ## 四，核心原理
 
 ### 坐标变换：
