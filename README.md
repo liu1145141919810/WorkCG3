@@ -14,9 +14,51 @@
 
 ## 三，项目结构
 
-Work1/ ├── HW1-web2.0-blank/ │ ├── Common/ # 公共库文件 │ │ ├── MV.js # 矩阵向量数学库 │ │ ├── MVnew.js # 矩阵向量库备用版本 │ │ ├── flatten.js # 数据扁平化工具 │ │ ├── initShaders.js # Shader初始化工具 │ │ ├── initShaders2.js # Shader初始化工具2 │ │ ├── initShaders3.js # Shader初始化工具3 │ │ ├── utility.js # 通用工具函数 │ │ └── webgl-utils.js # WebGL工具库 │ │ │ └── Gasket/ # 谢尔宾斯基地毯绘制 │ ├── customize.html # 自定义参数界面 │ ├── customize.js # 自定义参数逻辑 │ ├── gasket2D.html # 2D地毯绘制界面 │ ├── gasket2D.js # 2D地毯绘制逻辑 │ └── shaders/ # 着色器程序 │ ├── gasket2D.vert # 顶点着色器 │ └── gasket2D.frag # 片段着色器 │ └── graphics/ # 演示图像 ├── p1.png # 示例图像1 ├── p2.png # 示例图像2 ├── p3.png # 示例图像3 └── p4.png # 示例图像4
+Work1/ 
+├── HW1-web2.0-blank/ 
+│ ├── Common/ # 公共库文件 
+│ │ ├── MV.js # 矩阵向量数学库 
+│ │ ├── MVnew.js # 矩阵向量库备用版本 
+│ │ ├── flatten.js # 数据扁平化工具 
+│ │ ├── initShaders.js # Shader初始化工具 
+│ │ ├── initShaders2.js # Shader初始化工具2 
+│ │ ├── initShaders3.js # Shader初始化工具3 
+│ │ ├── utility.js # 通用工具函数 
+│ │ └── webgl-utils.js # WebGL工具库 
+│ │ │ └── Gasket/ # 谢尔宾斯基地毯绘制 
+│ ├── customize.html # 自定义参数界面 
+│ ├── customize.js # 自定义参数逻辑
+│ ├── gasket2D.html # 2D地毯绘制界面 
+│ ├── gasket2D.js # 2D地毯绘制逻辑 
+│ └── shaders/ # 着色器程序 
+│ ├── gasket2D.vert # 顶点着色器 
+│ └── gasket2D.frag # 片段着色器
+│ └── graphics/ # 演示图像 
 
-## 四，核心原理
+
+Work2/ 
+├── HW2-TODO/ 
+│ ├── Common/ # 公共库文件（同Work1）
+│ ├── 3d-wandering.html # 3D场景主页面
+│ ├── 3d-wandering.js # 3D场景交互逻辑 
+│ ├── models-data.js # 模型数据定义
+│ ├── shaders/ # 着色器程序 
+| │ ├── 3d-wandering.vert # 顶点着色器 
+│ │ └── 3d-wandering.frag # 片段着色器 
+│ ├── Pokemon/ # 宝可梦模型资源 
+
+Work3/ 
+├── phongshading-todo/ 
+│ ├── Common/ # 公共库文件（同work1)
+│ │ └── webgl-utils.js # WebGL工具库 
+│ │ │ ├── Phongshading.html # 冯氏着色主页面 
+│ ├── Phongshading.js # 冯氏着色交互逻辑 
+│ ├── Models.js # 模型数据定义
+│ ├── configMaterialParameters.js # 材质参数置 
+│ ├── configTexture.js # 纹理配置 
+│ ├── index.html # 入口页面 
+│ │ │ ├── shaders/ # 着色器程序 
+│ │ │ ├── skybox/ # 具体资源 
 
 ### 坐标变换：
 
