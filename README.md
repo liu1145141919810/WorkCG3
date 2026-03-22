@@ -26,9 +26,9 @@
 
 ### 光照计算：基于 Phong 模型，对每个像素计算三部分光照之和：
 
-- 环境光：$I_a \cdot K_a$
-- 漫反射：$I_d \cdot K_d \cdot (N \cdot L)$
-- 镜面反射：$I_s \cdot K_s \cdot (V \cdot R)^n$
+- 环境光：$$I_a \cdot K_a$$
+- 漫反射：$$I_d \cdot K_d \cdot (N \cdot L)$$
+- 镜面反射：$$I_s \cdot K_s \cdot (V \cdot R)^n$$
 
 最终颜色为：
 
