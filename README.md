@@ -1,33 +1,33 @@
-# Overview of Programming Assignments
+# 编程作业概览
 
-## Assignment 1: Introduction to Programming
-This assignment focused on the basics of programming, including:
-- Understanding data types and variables
-- Control structures like loops and conditionals
-- Functions and their importance in code organization
+## 作业1：编程简介
+本作业重点关注编程基础，包括：
+- 理解数据类型和变量
+- 控制结构，如循环和条件语句
+- 函数及其在代码组织中的重要性
 
-### Key Learning Outcomes
-- Able to write simple programs using basic constructs.
-- Understanding the importance of code readability and documentation.
+### 主要学习成果
+- 能够���用基本构造编写简单程序
+- 理解代码可读性和文档的重要性
 
-## Assignment 2: Data Structures
-This assignment involved the implementation and understanding of core data structures such as:
-- Arrays
-- Linked Lists
-- Stacks and Queues
+## 作业2：数据结构
+本作业涉及核心数据结构的实现和理解，包括：
+- 数组
+- 链表
+- 栈和队列
 
-### Key Learning Outcomes
-- Able to utilize appropriate data structures for problem-solving.
-- Understanding the performance implications of different data structures.
+### 主要学习成果
+- 能够为问题解决选择合适的数据结构
+- 理解不同数据结构的性能影响
 
-## Assignment 3: Algorithms
-In this assignment, we explored several algorithms, including:
-- Sorting algorithms (bubble sort, quick sort)
-- Searching algorithms (linear and binary search)
+## 作业3：算法
+在本作业中，我们探索了多个算法，包括：
+- 排序算法（冒泡排序、快速排序）
+- 搜索算法（线性搜索和二分搜索）
 
-### Key Learning Outcomes
-- Ability to analyze the efficiency of algorithms.
-- Knowledge of how to implement and test various algorithms in practical scenarios.
+### 主要学习成果
+- 分析算法效率的能力
+- 了解如何在实际场景中实现和测试各种算法
 
-## Conclusion
-These assignments provided a comprehensive understanding of programming fundamentals, data structures, and algorithms, which are crucial for advanced study in computer science.
+## 总结
+这些作业提供了对编程基础、数据结构和算法的全面理解，这些对计算机科学的高级研究至关重要。
