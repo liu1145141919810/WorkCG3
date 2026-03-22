@@ -26,6 +26,24 @@
 
 ### 技术栈
 
+#### 建构技术
+
+WebGL - Web Graphics Library
+
+GLSL - OpenGL Shading Language
+
+JavaScript / ES6
+
+HTML5 Canvas
+
+#### 算法
+
+Fractal Geometry (分形几何)
+
+Depth Testing (深度测试)
+
+Real-time Rendering (实时渲染)
+
 ## 三，项目结构
 
 ## 项目目录结构
